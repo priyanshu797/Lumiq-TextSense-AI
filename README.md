@@ -34,25 +34,6 @@ Powered by **Groq's ultra-fast LLaMA 3.3 70B** — the fastest AI inference avai
 
 ---
 
-### 🎤 Voice Input *(v4)*
-
-Speak instead of type — Lumiq listens, transcribes live, and lets you pick which AI action to run.
-
-- Press **`Ctrl+Shift+V`** or click the 🎤 mic button
-- Animated overlay with pulsing rings while listening
-- Live transcript shown word-by-word as you speak
-- After speaking → action picker pops up → pick Explain / Summarize / Quiz etc.
-- Voice button also available inside the result panel for follow-up questions
-
-### 🔊 Read Aloud / Voice Output *(v4)*
-
-Every AI response can be read aloud with a single click.
-
-- 🔊 **Read** button on every result panel and in the popup
-- **Adjustable speed** — 0.5× to 2.0× slider
-- Smart text cleanup — strips ASCII art for natural-sounding speech
-- Click again to stop mid-sentence
-
 ### ⚡ Built for Scale
 
 Lumiq handles many simultaneous users cleanly with no dropped requests:
