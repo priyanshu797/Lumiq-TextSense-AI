@@ -307,4 +307,4 @@ MIT License — free to use, fork, modify, and distribute. See [LICENSE](LICENSE
 
 ---
 
-*Built with care. Powered by Groq.*
+*Built with care. Powered by Lumiq.*
