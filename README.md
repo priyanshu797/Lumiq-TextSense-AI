@@ -2,17 +2,9 @@
 
 <br/>
 
-<img src="icons/icon128.png" width="88" height="88" alt="Lumiq Icon"/>
-
 <h1>✦ Lumiq · TextSense AI</h1>
 
 <p><strong>AI superpowers for every webpage.<br/>Explain, summarize, translate, voice I/O & more — in one click.</strong></p>
-
-[![Version](https://img.shields.io/badge/version-4.0.0-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/yourusername/lumiq-textsense-ai/releases)
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-00d4aa?style=flat-square)](https://developer.chrome.com/docs/extensions/mv3/)
-[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq%20⚡-f43f5e?style=flat-square)](https://groq.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-34d399?style=flat-square)](#-contributing)
 
 <br/>
 
