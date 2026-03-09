@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="assets/image.png" width="340" alt="Lumiq TextSense AI — 3×3 Action Menu"/>
+<img src=" Lumiq – TextSense AI/assets/image.png" width="340" alt="Lumiq TextSense AI — 3×3 Action Menu"/>
 
 <br/><br/>
 
