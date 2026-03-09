@@ -3,9 +3,7 @@
 <br/>
 
 <h1>✦ Lumiq · TextSense AI</h1>
-<br/><br/>
-<sub>⬆️ Select any text on any webpage → the <b>✦ AI</b> button appears → pick an action from the 3×3 grid</sub>
-<br/><br/>
+
 ---
 
 ## 🧠 What is Lumiq?
