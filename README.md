@@ -4,16 +4,6 @@
 
 <h1>✦ Lumiq · TextSense AI</h1>
 
-<p><strong>AI superpowers for every webpage.<br/>Explain, summarize, translate, voice I/O & more — in one click.</strong></p>
-
-<sub>⬆️ Select any text on any webpage → the <b>✦ AI</b> button appears → pick an action from the 3×3 grid</sub>
-
-<br/><br/>
-
-**[📦 Install](#-installation) · [⚡ Quick Start](#-quick-start) · [✨ Features](#-features) · [⚙️ Config](#%EF%B8%8F-configuration) · [🤝 Contribute](#-contributing)**
-
-</div>
-
 ---
 
 ## 🧠 What is Lumiq?
