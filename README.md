@@ -6,12 +6,6 @@
 
 <p><strong>AI superpowers for every webpage.<br/>Explain, summarize, translate, voice I/O & more — in one click.</strong></p>
 
-<br/>
-
-<img src=" Lumiq – TextSense AI/assets/image.png" width="340" alt="Lumiq TextSense AI — 3×3 Action Menu"/>
-
-<br/><br/>
-
 <sub>⬆️ Select any text on any webpage → the <b>✦ AI</b> button appears → pick an action from the 3×3 grid</sub>
 
 <br/><br/>
